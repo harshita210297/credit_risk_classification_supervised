@@ -24,7 +24,6 @@ Python and softwares downloaded -
 
 ## Results 
 * Machine Learning Model 1 (with original data):
-
 Test Data Balanced Accuracy: 99%
 Test Data Precision for 'healthy loans': 100%
 Test Data Precision for 'high risk loans': 85%
@@ -32,7 +31,6 @@ Test Data Recall for 'healthy loans': 99%
 Test Data Recall for 'high risk loans': 91%
 
 * Machine Learning Model 2 (with resampled data):
-
 Test Data Balanced Accuracy: 99%
 Test Data Precision for 'healthy loans': 99%
 Test Data Precision for 'high risk loans': 99%
